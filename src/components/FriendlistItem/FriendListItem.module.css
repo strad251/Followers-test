@@ -1,0 +1,23 @@
+.item {
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.online,
+.offline {
+  display: block;
+  width: 15px;
+  height: 15px;
+  margin: 5px;
+  border-radius: 50%;
+}
+.online {
+  background-color: rgba(12, 183, 41, 0.5);
+}
+.offline {
+  background-color: rgba(215, 94, 94, 0.5);
+}

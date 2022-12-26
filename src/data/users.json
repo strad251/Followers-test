@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "user": "Mark",
+    "tweets": 777,
+    "followers": 100500,
+    "avatar": "https://picsum.photos/200"
+  },
+  {
+    "id": 2,
+    "user": "Steve Jobs",
+    "tweets": 777,
+    "followers": 100500,
+    "avatar": "https://picsum.photos/200"
+  },
+  {
+    "id": 3,
+    "user": "Bill Gates",
+    "tweets": 777,
+    "followers": 100500,
+    "avatar": "https://picsum.photos/200"
+  },
+  {
+    "id": 4,
+    "user": "Taras Shevchenko",
+    "tweets": 777,
+    "followers": 100500,
+    "avatar": "https://picsum.photos/200"
+  },
+  {
+    "id": 5,
+    "user": "Elon Reeve",
+    "tweets": 777,
+    "followers": 100500,
+    "avatar": "https://picsum.photos/200"
+  }
+]
