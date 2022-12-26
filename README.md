@@ -12,4 +12,4 @@ Webpack
 
 ******************************
 
-(https://strad251.github.io/Followers-test/ "Enjoy!")
+"Enjoy! [GitHub Pages](https://strad251.github.io/Followers-test/).
